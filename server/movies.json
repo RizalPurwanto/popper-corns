@@ -1,0 +1,81 @@
+[
+  
+  {
+    "id": 1,
+    "title": "The Lion King",
+    "slug": "",
+    "synopsis": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_Ratio0.6751_AL_.jpg",
+    "rating": 85,
+    "trailerUrl": "https://www.youtube.com/embed/lFzVJEksoDY",
+    "genreId": 4,
+    "authorId": 1
+    
+
+  },
+  {
+    "id": 2,
+    "title": "Dune",
+    "slug": "",
+    "synopsis": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its scion becomes troubled by visions of a dark future.",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BZjgxNWNiMGItMDQzYi00MGU4LTgyN2YtNzU3ODMwNWNlMmRjXkEyXkFqcGdeQXVyNzU3Nzk4MDQ@._V1_.jpg",
+    "rating": 81,
+    "trailerUrl": "https://www.youtube.com/embed/n9xhJrPXop4",
+    "genreId": 6,
+    "authorId": 1
+    
+
+  },
+  {
+    "id": 3,
+    "title": "La La Land",
+    "slug": "",
+    "synopsis": "Aspiring actress serves lattes to movie stars in between auditions and jazz musician Sebastian scrapes by playing cocktail-party gigs in dingy bars. But as success mounts, they are faced with decisions that fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 80,
+    "trailerUrl": "https://www.youtube.com/embed/0pdqf4P9MB8",
+    "genreId": 5,
+    "authorId": 2
+    
+
+  },
+  {
+    "id": 4,
+    "title": "Spider-Man: No Way Home",
+    "slug": "",
+    "synopsis": "Peter Parker's secret identity is revealed to the entire world. Desperate for help, Peter turns to Doctor Strange to make the world forget that he is Spider-Man. The spell goes horribly wrong and shatters the multiverse, bringing in monstrous villains that could destroy the world.",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BOGRkMDgwMjMtZmFkZi00NjEwLTllMDktMDcxZmQxYmYwNTVlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+    "rating": 85,
+    "trailerUrl": "https://www.youtube.com/embed/JfVOs4VSpmA",
+    "genreId": 7,
+    "authorId": 2
+    
+
+  },
+  {
+    "id": 5,
+    "title": "Inception",
+    "slug": "",
+    "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_Ratio0.6751_AL_.jpg",
+    "rating": 85,
+    "trailerUrl": "https://www.youtube.com/embed/YoHD9XEInc0",
+    "genreId": 1,
+    "authorId": 2
+    
+
+  },
+  {
+    "id": 6,
+    "title": "It",
+    "slug": "",
+    "synopsis": "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.",
+    "imgUrl": "https://cdn.watchmode.com/posters/01187106_poster_w185.jpg",
+    "rating": 73,
+    "trailerUrl": "https://www.youtube.com/embed/FnCdOQsX5kc",
+    "genreId": 8,
+    "authorId": 3
+    
+
+  }
+]

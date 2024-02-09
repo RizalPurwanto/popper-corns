@@ -1,0 +1,313 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "username": "Anemone",
+      "email": "anemone@mail.com",
+      "password": "adonis",
+      "role": "staff",
+      "phoneNumber": "321282824289",
+      "address": "Florist St."
+    },
+    {
+      "id": 2,
+      "username": "Chrys",
+      "email": "chrys@mail.com",
+      "password": "krisan",
+      "role": "admin",
+      "phoneNumber": "437427328372",
+      "address": "Golden St."
+    },
+    {
+      "id": 3,
+      "username": "Hortensia",
+      "email": "hortensia@mail.com",
+      "password": "hydrangea",
+      "role": "staff",
+      "phoneNumber": "64758478347",
+      "address": "Hydra St."
+    },
+    {
+      "id": 4,
+      "username": "Poppy",
+      "email": "poppy@mail.com",
+      "password": "poppy",
+      "role": "customer",
+      "phoneNumber": "64758478365",
+      "address": "Pop St."
+    },
+    {
+      "id": 5,
+      "username": "Gerbera",
+      "email": "gerbera@mail.com",
+      "password": "gerbera",
+      "role": "customer",
+      "phoneNumber": "54234478365",
+      "address": "GP04 St."
+    },
+    {
+      "username": "Zeta",
+      "email": "zeta@mail.com",
+      "password": "zeta",
+      "address": "Greek Letter St",
+      "role": "Admin",
+      "phoneNumber": "09912127878",
+      "id": 6
+    }
+  ],
+  "movies": [
+    {
+      "title": "The Lion King",
+      "slug": "the-lion-king",
+      "synopsis": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_Ratio0.6751_AL_.jpg",
+      "rating": "8.5",
+      "trailerUrl": "https://www.youtube.com/embed/lFzVJEksoDY",
+      "genreId": 4,
+      "authorId": 1,
+      "casts": [
+        {
+          "id": 1,
+          "movieId": 1,
+          "name": "Matthew Broderick",
+          "profilePict": "https://m.media-amazon.com/images/M/MV5BMTg2NjA0MzM0OF5BMl5BanBnXkFtZTcwMDU5ODAxMw@@._V1_UY317_CR20,0,214,317_AL_.jpg"
+        },
+        {
+          "id": 2,
+          "movieId": 1,
+          "name": "Jeremy Irons",
+          "profilePict": "https://m.media-amazon.com/images/M/MV5BMTY5Mzg2NDY5OV5BMl5BanBnXkFtZTcwMDQwNzA0Mg@@._V1_UY317_CR13,0,214,317_AL_.jpg"
+        },
+        {
+          "id": 3,
+          "movieId": 1,
+          "name": "Whoopi Goldberg",
+          "profilePict": "https://m.media-amazon.com/images/M/MV5BMjE4ODgzNjQwOV5BMl5BanBnXkFtZTYwNzczNzc0._V1_UX214_CR0,0,214,317_AL_.jpg"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Dune",
+      "slug": "dune",
+      "synopsis": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its scion becomes troubled by visions of a dark future.",
+      "imageUrl": "https://imdb-api.com/images/original/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6751_AL_.jpg",
+      "rating": 8.1,
+      "trailerUrl": "https://www.youtube.com/embed/n9xhJrPXop4",
+      "genreId": 6,
+      "authorId": 1
+    },
+    {
+      "id": 3,
+      "title": "La La Land",
+      "slug": "la-la-land",
+      "synopsis": "Aspiring actress serves lattes to movie stars in between auditions and jazz musician Sebastian scrapes by playing cocktail-party gigs in dingy bars. But as success mounts, they are faced with decisions that fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+      "imageUrl": "https://imdb-api.com/images/original/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_Ratio0.6751_AL_.jpg",
+      "rating": 8,
+      "trailerUrl": "https://www.youtube.com/embed/0pdqf4P9MB8",
+      "genreId": 5,
+      "authorId": 2
+    },
+    {
+      "id": 4,
+      "title": "Spider-Man: No Way Home",
+      "slug": "spiderman-man-no-way-home",
+      "synopsis": "Peter Parker's secret identity is revealed to the entire world. Desperate for help, Peter turns to Doctor Strange to make the world forget that he is Spider-Man. The spell goes horribly wrong and shatters the multiverse, bringing in monstrous villains that could destroy the world.",
+      "imageUrl": "https://imdb-api.com/images/original/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_Ratio0.6751_AL_.jpg",
+      "rating": 8.5,
+      "trailerUrl": "https://www.youtube.com/embed/JfVOs4VSpmA",
+      "genreId": 7,
+      "authorId": 2
+    },
+    {
+      "id": 5,
+      "title": "Inception",
+      "slug": "inception",
+      "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_Ratio0.6751_AL_.jpg",
+      "rating": 8.5,
+      "trailerUrl": "https://www.youtube.com/embed/YoHD9XEInc0",
+      "genreId": 1,
+      "authorId": 2
+    },
+    {
+      "title": "It",
+      "slug": "it",
+      "synopsis": "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.",
+      "imageUrl": "https://imdb-api.com/images/original/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_Ratio0.6751_AL_.jpg",
+      "rating": "7.3",
+      "trailerUrl": "https://www.youtube.com/embed/FnCdOQsX5kc",
+      "genreId": 8,
+      "authorId": 3,
+      "id": 6
+    },
+    {
+      "title": "asasasazxzxz",
+      "slug": "",
+      "synopsis": "something",
+      "imageUrl": "http://placekitten.com/200/300",
+      "rating": 10,
+      "trailerUrl": "https://www.youtube.com/watch?v=KAOdjqyG37A",
+      "genreId": 1,
+      "authorId": 1,
+      "id": 8
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Comedy"
+    },
+    {
+      "id": 3,
+      "name": "Romance"
+    },
+    {
+      "id": 4,
+      "name": "Animation"
+    },
+    {
+      "id": 5,
+      "name": "Drama"
+    },
+    {
+      "id": 6,
+      "name": "Sci-fi"
+    },
+    {
+      "id": 7,
+      "name": "Fantasy"
+    },
+    {
+      "id": 8,
+      "name": "Horror"
+    },
+    {
+      "id": 9,
+      "name": "Mystery"
+    },
+    {
+      "name": "Anime",
+      "id": 10
+    },
+    {
+      "name": "Parody",
+      "id": 11
+    }
+  ],
+  "casts": [
+    {
+      "id": 1,
+      "movieId": 1,
+      "name": "Matthew Broderick",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BMTg2NjA0MzM0OF5BMl5BanBnXkFtZTcwMDU5ODAxMw@@._V1_UY317_CR20,0,214,317_AL_.jpg"
+    },
+    {
+      "id": 2,
+      "movieId": 1,
+      "name": "Jeremy Irons",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BMTY5Mzg2NDY5OV5BMl5BanBnXkFtZTcwMDQwNzA0Mg@@._V1_UY317_CR13,0,214,317_AL_.jpg"
+    },
+    {
+      "id": 3,
+      "movieId": 1,
+      "name": "Whoopi Goldberg",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BMjE4ODgzNjQwOV5BMl5BanBnXkFtZTYwNzczNzc0._V1_UX214_CR0,0,214,317_AL_.jpg"
+    },
+    {
+      "id": 4,
+      "movieId": 2,
+      "name": "Timothée Chalamet",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BOWU1Nzg0M2ItYjEzMi00ODliLThkODAtNGEyYzRkZTBmMmEzXkEyXkFqcGdeQXVyNDk2Mzk2NDg@._V1_UY317_CR13,0,214,317_AL_.jpg"
+    },
+    {
+      "id": 5,
+      "movieId": 2,
+      "name": "Rebecca Ferguson",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BNzA4NDA1MTA5NV5BMl5BanBnXkFtZTcwNjMyNTQ3OA@@._V1_UY317_CR6,0,214,317_AL_.jpg"
+    },
+    {
+      "id": 6,
+      "movieId": 2,
+      "name": "Jason Momoa",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BODJlNWQ4ZjUtYjRhNi00NGQ1LWE3YTItYjRmZGI3YzI4YTEyXkEyXkFqcGdeQXVyMTA2MDIzMDE5._V1_UY317_CR130,0,214,317_AL_.jpg"
+    },
+    {
+      "id": 7,
+      "movieId": 3,
+      "name": "Ryan Gosling",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BMTQzMjkwNTQ2OF5BMl5BanBnXkFtZTgwNTQ4MTQ4MTE@._V1_UY317_CR18,0,214,317_AL_.jpg"
+    },
+    {
+      "id": 8,
+      "movieId": 3,
+      "name": "Emma Stone",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BMjI4NjM1NDkyN15BMl5BanBnXkFtZTgwODgyNTY1MjE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+    },
+    {
+      "id": 9,
+      "movieId": 3,
+      "name": "Rosemarie DeWitt",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BMTMxMTg3ODA5M15BMl5BanBnXkFtZTcwOTA1NzQyMg@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+    },
+    {
+      "id": 10,
+      "movieId": 4,
+      "name": "Tom Holland",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BNzZiNTEyNTItYjNhMS00YjI2LWIwMWQtZmYwYTRlNjMyZTJjXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_UX214_CR0,0,214,317_AL_.jpg"
+    },
+    {
+      "id": 11,
+      "movieId": 4,
+      "name": "Zendaya",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BMjAxZTk4NDAtYjI3Mi00OTk3LTg0NDEtNWFlNzE5NDM5MWM1XkEyXkFqcGdeQXVyOTI3MjYwOQ@@._V1_UY317_CR12,0,214,317_AL_.jpg"
+    },
+    {
+      "id": 12,
+      "movieId": 4,
+      "name": "Benedict Cumberbatch",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BMjE0MDkzMDQwOF5BMl5BanBnXkFtZTgwOTE1Mjg1MzE@._V1_UY317_CR2,0,214,317_AL_.jpg"
+    },
+    {
+      "id": 13,
+      "movieId": 5,
+      "name": "Leonardo DiCaprio",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BMjI0MTg3MzI0M15BMl5BanBnXkFtZTcwMzQyODU2Mw@@._V1_UY317_CR10,0,214,317_AL_.jpg"
+    },
+    {
+      "id": 14,
+      "movieId": 5,
+      "name": "Joseph Gordon-Levitt",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BMTY3NTk0NDI3Ml5BMl5BanBnXkFtZTgwNDA3NjY0MjE@._V1_UY317_CR3,0,214,317_AL_.jpg"
+    },
+    {
+      "id": 15,
+      "movieId": 5,
+      "name": "Elliot Page",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BYWY0NzFmYjAtYzMwNC00ODc3LWI2ZWEtOTU3YTM0Y2ZiNTM5XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY317_CR11,0,214,317_AL_.jpg"
+    },
+    {
+      "id": 16,
+      "movieId": 6,
+      "name": "Finn Wolfhard",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BYjlkNTdhNjYtYTFhNy00MTUxLWIwNTgtMTE5NTY5Y2I3MDc0XkEyXkFqcGdeQXVyNjY5NDgzNjQ@._V1_UX214_CR0,0,214,317_AL_.jpg"
+    },
+    {
+      "id": 17,
+      "movieId": 6,
+      "name": "Sophia Lillis",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BYWZjYjA0MWItNmExYS00M2JmLTlhZjAtNjIyYWUzOGJlZDNlXkEyXkFqcGdeQXVyMTA1ODAyOTI1._V1_UY317_CR12,0,214,317_AL_.jpg"
+    },
+    {
+      "id": 18,
+      "movieId": 6,
+      "name": "Bill Skarsgård",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BODBlNmRhODYtOWE2Ni00MTZmLWExMWYtMmRjYWNhNDRjNGU2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY317_CR120,0,214,317_AL_.jpg"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "username": "Anemone",
+    "email": "anemone@mail.com",
+    "password": "adonis",
+    "role" : "staff",
+    "phoneNumber": "321282824289",
+    "address": "Florist St."
+
+  },
+  {
+    "id": 2,
+    "username": "Chrys",
+    "email": "chrys@mail.com",
+    "password": "krisan",
+    "role" : "admin",
+    "phoneNumber": "437427328372",
+    "address": "Golden St."
+  },
+  {
+    "id": 3,
+    "username": "Hortensia",
+    "email": "hortensia@mail.com",
+    "password": "hydrangea",
+    "role" : "staff",
+    "phoneNumber": "64758478347",
+    "address": "Hydra St."
+  },
+  {
+    "id": 4,
+    "username": "Poppy",
+    "email": "poppy@mail.com",
+    "password": "poppy",
+    "role" : "customer",
+    "phoneNumber": "64758478365",
+    "address": "Pop St."
+  },
+  {
+    "id": 5,
+    "username": "Gerbera",
+    "email": "gerbera@mail.com",
+    "password": "gerbera",
+    "role" : "customer",
+    "phoneNumber": "54234478365",
+    "address": "GP04 St."
+  }
+]
